@@ -1,1 +1,1 @@
-# Computer-Organization
+# Single-Cycle CPU
